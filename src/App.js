@@ -4,6 +4,7 @@ import Contact from "./component/Contact";
 import Header from "./component/Header";
 
 function App() {
+
   return (
     <div className="App">
       <Header />
@@ -11,6 +12,6 @@ function App() {
       <Contact />
     </div>
   );
-}
 
+}
 export default App;
